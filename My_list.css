@@ -76,6 +76,11 @@ body
     padding-bottom: 2%;
 }
 
+a
+{
+    color: var(--main-color);
+}
+
 span
 {
     color: var(--text-color);
